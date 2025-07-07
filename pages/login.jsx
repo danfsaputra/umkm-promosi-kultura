@@ -13,7 +13,7 @@ export default function LoginPage() {
     setErrorMessage("");
     setSuccessMessage("");
 
-    if (username === "admin" && password === "admin123") {
+    if (username === "kulturaadmin" && password === "kultura123") {
       localStorage.setItem("isLoggedIn", "true");
       setSuccessMessage("Login berhasil. Mengarahkan ke dashboard...");
       setTimeout(() => {

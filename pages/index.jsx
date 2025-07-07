@@ -60,7 +60,7 @@ export default function Home() {
   }, []);
 
   const handleWhatsAppOrder = (productName = "") => {
-    const phone = "6281350275073";
+    const phone = "+6281350275073";
     const message = productName
       ? `Halo! Saya ingin bertanya mengenai produk ${productName}, bisa dibantu?`
       : "Halo! Saya ingin bertanya tentang produk UMKM Kultura.";
@@ -341,7 +341,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-start gap-3">
                   <MapPin className="w-4 h-4 sm:w-5 sm:h-5 flex-shrink-0 mt-0.5" />
-                  <span className="text-sm sm:text-base">Jl. Kemayoran Baru DKA No. 17, Surabaya, Jawa Timur</span>
+                  <span className="text-sm sm:text-base">Jl. Krembangan Barat No.71, Surabaya, Jawa Timur</span>
                 </div>
               </div>
             </div>

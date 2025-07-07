@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://kultura.umkmkremsel.shop
+
+# Sitemaps
+Sitemap: https://kultura.umkmkremsel.shop/sitemap.xml
