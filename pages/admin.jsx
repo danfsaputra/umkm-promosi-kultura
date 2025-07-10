@@ -125,7 +125,7 @@ export default function AdminDashboard() {
           <div className="flex items-center gap-4">
             <div className="w-12 h-12 bg-gradient-to-br from-amber-50 to-orange-50 rounded-full flex items-center justify-center overflow-hidden">
               <img
-                src="/LOGO%20AJA.png"
+                src="/kultura.jpg"
                 alt="Logo UMKM Kultura"
                 className="w-full h-full object-cover"
               />
@@ -311,7 +311,7 @@ export default function AdminDashboard() {
           <div className="flex items-center justify-center gap-4 mb-4">
             <div className="w-8 h-8 bg-gradient-to-br  from-amber-50 to-orange-50 rounded-full flex items-center justify-center overflow-hidden">
               <img
-                src="/LOGO%20AJA.png"
+                src="/kultura.jpg"
                 alt="Logo UMKM Kultura"
                 className="w-full h-full object-cover"
               />
